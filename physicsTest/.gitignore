@@ -1,0 +1,4 @@
+Modeling/GlAssimp/Libraries/lib/libassimp.a
+*.out
+*.o
+Modeling/GlAssimp/main.out
